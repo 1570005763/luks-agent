@@ -1,0 +1,6 @@
+{
+    "client_type": "client_key",
+    "client_key_id": "KAAP.50751a5e-b6af-4ebb-910b-12eacd71f045",
+    "kms_instance_id": "kst-bjj66bdba95w1m0xfm3bt",
+    "secret_name": "luks_passphrase"
+}
